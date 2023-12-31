@@ -12,3 +12,18 @@ The **Hand Distance Game** involves finding the distance of your hand from the w
 - Press the **Q** button to quit the game.
 
 Your score will be displayed, and the game has a time limit of 20 seconds.
+
+
+## How to Run
+
+To run the game, follow these steps:
+
+1. Make sure you have all the required libraries installed. You can install them using the following command:
+    ```bash
+    pip install mediapipe cvzone
+    ```
+
+2. Run the `game.py` file.
+
+   ```bash
+   python game.py
